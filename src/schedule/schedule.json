@@ -1,0 +1,875 @@
+[
+  {
+    "group": "CS-2439",
+    "day": "Monday",
+    "time": "08:00-08:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.361",
+    "type": "lecture",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Monday",
+    "time": "09:00-09:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.361",
+    "type": "lecture",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Monday",
+    "time": "10:00-10:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.241K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Monday",
+    "time": "11:00-11:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.241K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Tuesday",
+    "time": "08:00-08:50",
+    "subject": "Electronics",
+    "classroom": "C1.3.370",
+    "type": "lecture",
+    "lecturer": "Sagidolla Batay"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Tuesday",
+    "time": "09:00-09:50",
+    "subject": "Electronics",
+    "classroom": "C1.3.370",
+    "type": "lecture",
+    "lecturer": "Sagidolla Batay"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Tuesday",
+    "time": "10:00-10:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.1.344P",
+    "type": "practice",
+    "lecturer": "Asiyanur Choban"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Tuesday",
+    "time": "11:00-11:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.1.344P",
+    "type": "practice",
+    "lecturer": "Asiyanur Choban"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Wednesday",
+    "time": "08:00-08:50",
+    "subject": "Cultural Studies",
+    "classroom": "C1.2.250L",
+    "type": "practice",
+    "lecturer": "Abildinova Zh."
+  },
+  {
+    "group": "CS-2439",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "subject": "Political Science",
+    "classroom": "C1.1.254P",
+    "type": "practice",
+    "lecturer": "Kaldybekova Aidana"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Wednesday",
+    "time": "10:00-10:50",
+    "subject": "Calculus",
+    "classroom": "2C1.3.365L",
+    "type": "lecture",
+    "lecturer": "Kassabek Samat"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Wednesday",
+    "time": "11:00-11:50",
+    "subject": "Calculus",
+    "classroom": "2C1.3.365L",
+    "type": "lecture",
+    "lecturer": "Kassabek Samat"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Thursday",
+    "time": "08:00-08:50",
+    "subject": "Electronics",
+    "classroom": "C1.2.239K",
+    "type": "practice",
+    "lecturer": "Sayazhan Nakipova"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "subject": "Electronics",
+    "classroom": "C1.2.239K",
+    "type": "practice",
+    "lecturer": "Sayazhan Nakipova"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.228K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Friday",
+    "time": "08:00-08:50",
+    "subject": "Calculus",
+    "classroom": "2C1.2.251L",
+    "type": "practice",
+    "lecturer": "Serik Kudaibergenov"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "subject": "Calculus",
+    "classroom": "2C1.2.251L",
+    "type": "practice",
+    "lecturer": "Serik Kudaibergenov"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Saturday",
+    "time": "08:00-08:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Aliya Abdiraman"
+  },
+  {
+    "group": "CS-2439",
+    "day": "Saturday",
+    "time": "09:00-09:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Aliya Abdiraman"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Monday",
+    "time": "10:00-10:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.361",
+    "type": "lecture",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Monday",
+    "time": "11:00-11:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.361",
+    "type": "lecture",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Monday",
+    "time": "12:00-12:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.243K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Monday",
+    "time": "13:05-13:55",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.243K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Tuesday",
+    "time": "08:00-08:50",
+    "subject": "Electronics",
+    "classroom": "C1.3.370",
+    "type": "lecture",
+    "lecturer": "Sagidolla Batay"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Tuesday",
+    "time": "09:00-09:50",
+    "subject": "Electronics",
+    "classroom": "C1.3.370",
+    "type": "lecture",
+    "lecturer": "Sagidolla Batay"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Tuesday",
+    "time": "10:00-10:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.362",
+    "type": "practice",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Tuesday",
+    "time": "11:00-11:50",
+    "subject": "Linear Algebra",
+    "classroom": "C1.3.362",
+    "type": "practice",
+    "lecturer": "Ostemirova Uldana"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Wednesday",
+    "time": "10:00-10:50",
+    "subject": "Calculus",
+    "classroom": "2C1.3.365L",
+    "type": "lecture",
+    "lecturer": "Kassabek Samat"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Wednesday",
+    "time": "11:00-11:50",
+    "subject": "Calculus",
+    "classroom": "2C1.3.365L",
+    "type": "lecture",
+    "lecturer": "Kassabek Samat"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Wednesday",
+    "time": "12:00-12:50",
+    "subject": "Cultural Studies",
+    "classroom": "C1.2.250L",
+    "type": "practice",
+    "lecturer": "Abildinova Zh."
+  },
+  {
+    "group": "CS-2440",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.2.228K",
+    "type": "practice",
+    "lecturer": "Yessenbek Sanida"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "subject": "Electronics",
+    "classroom": "C1.2.239K",
+    "type": "practice",
+    "lecturer": "Sayazhan Nakipova"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Thursday",
+    "time": "11:00-11:50",
+    "subject": "Electronics",
+    "classroom": "C1.2.239K",
+    "type": "practice",
+    "lecturer": "Sayazhan Nakipova"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Saturday",
+    "time": "08:00-08:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Aliya Abdiraman"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Saturday",
+    "time": "09:00-09:50",
+    "subject": "Hacking Lab",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Aliya Abdiraman"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Saturday",
+    "time": "11:00-11:50",
+    "subject": "Political Science",
+    "classroom": "C1.1.254P",
+    "type": "practice",
+    "lecturer": "Kaldybekova Aidana"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Saturday",
+    "time": "12:00-12:50",
+    "subject": "Calculus",
+    "classroom": "2C1.2.251L",
+    "type": "practice",
+    "lecturer": "Serik Kudaibergenov"
+  },
+  {
+    "group": "CS-2440",
+    "day": "Saturday",
+    "time": "13:05-13:55",
+    "subject": "Calculus",
+    "classroom": "2C1.2.251L",
+    "type": "practice",
+    "lecturer": "Serik Kudaibergenov"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Monday",
+    "time": "08:00-08:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Monday",
+    "time": "09:00-09:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Monday",
+    "time": "10:00-10:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Monday",
+    "time": "11:00-11:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Monday",
+    "time": "12:00-12:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "08:00-08:50",
+    "subject": "History of Kazakhstan",
+    "classroom": "C1.1.228P",
+    "type": "practice",
+    "lecturer": "Auzhanova Assel"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "09:00-09:50",
+    "subject": "History of Kazakhstan",
+    "classroom": "C1.1.228P",
+    "type": "practice",
+    "lecturer": "Auzhanova Assel"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "10:00-10:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "11:00-11:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "12:00-12:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Tuesday",
+    "time": "13:05-13:55",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Wednesday",
+    "time": "08:00-08:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Wednesday",
+    "time": "10:00-10:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Thursday",
+    "time": "08:00-08:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.328L",
+    "type": "lecture",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.328L",
+    "type": "lecture",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Thursday",
+    "time": "11:00-11:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Friday",
+    "time": "08:00-08:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2401",
+    "day": "Friday",
+    "time": "13:05-13:55",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Monday",
+    "time": "09:00-09:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Monday",
+    "time": "10:00-10:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Monday",
+    "time": "11:00-11:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Monday",
+    "time": "12:00-12:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Monday",
+    "time": "13:05-13:55",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Tuesday",
+    "time": "10:00-10:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Tuesday",
+    "time": "11:00-11:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Tuesday",
+    "time": "12:00-12:50",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Tuesday",
+    "time": "13:05-13:55",
+    "subject": "Photo Journalism and Basics of Design",
+    "classroom": "C1.1.221P",
+    "type": "lecture",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Wednesday",
+    "time": "11:00-11:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Wednesday",
+    "time": "12:00-12:50",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Wednesday",
+    "time": "13:05-13:55",
+    "subject": "Verbal Communication Skills",
+    "classroom": "C1.1.221P",
+    "type": "practice",
+    "lecturer": "Assemgul Sarsembayeva"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "08:00-08:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.328L",
+    "type": "lecture",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.328L",
+    "type": "lecture",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "11:00-11:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.1.334L",
+    "type": "lecture",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "12:00-12:50",
+    "subject": "History of Kazakhstan",
+    "classroom": "C1.1.228P",
+    "type": "practice",
+    "lecturer": "Auzhanova Assel"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Thursday",
+    "time": "13:05-13:55",
+    "subject": "History of Kazakhstan",
+    "classroom": "C1.1.228P",
+    "type": "practice",
+    "lecturer": "Auzhanova Assel"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Friday",
+    "time": "08:00-08:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "subject": "Introduction to Leadership",
+    "classroom": "C1.3.223P",
+    "type": "practice",
+    "lecturer": "Mergen Duisenov"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "DJ-2402",
+    "day": "Friday",
+    "time": "11:00-11:50",
+    "subject": "WEB Technologies 1 (Front End",
+    "classroom": ")C1.1.353K",
+    "type": "practice",
+    "lecturer": "Salkenov Aldiyar"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Monday",
+    "time": "08:00-08:50",
+    "subject": "Ordinary Differential Equations",
+    "classroom": "C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Mukanova Balgaisha"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Monday",
+    "time": "09:00-09:50",
+    "subject": "Ordinary Differential Equations",
+    "classroom": "C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Mukanova Balgaisha"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Monday",
+    "time": "10:00-10:50",
+    "subject": "Calculus",
+    "classroom": "3C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Nurlybekuly T."
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Monday",
+    "time": "11:00-11:50",
+    "subject": "Calculus",
+    "classroom": "3C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Nurlybekuly T."
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Wednesday",
+    "time": "10:00-10:50",
+    "subject": "Calculus",
+    "classroom": "3C1.1.355P",
+    "type": "practice",
+    "lecturer": "Nurlybekuly T."
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Wednesday",
+    "time": "11:00-11:50",
+    "subject": "Calculus",
+    "classroom": "3C1.1.355P",
+    "type": "practice",
+    "lecturer": "Nurlybekuly T."
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Thursday",
+    "time": "08:00-08:50",
+    "subject": "Ordinary Differential Equations",
+    "classroom": "C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Mukanova Balgaisha"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "subject": "Algorithms and Data Structures",
+    "classroom": "C1.1.348K",
+    "type": "practice",
+    "lecturer": "Kharmyssov Chingis"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "subject": "Calculus",
+    "classroom": "3C1.3.264L",
+    "type": "lecture",
+    "lecturer": "Nurlybekuly T."
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Friday",
+    "time": "08:00-08:50",
+    "subject": "Political Science",
+    "classroom": "C1.1.261",
+    "type": "practice",
+    "lecturer": "Yenglik Dossymkhan"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "subject": "Psychology",
+    "classroom": "C1.1.225P",
+    "type": "practice",
+    "lecturer": "Nursulu Belessova"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "subject": "Ordinary Differential Equations",
+    "classroom": "C1.1.355P",
+    "type": "practice",
+    "lecturer": "Mukanova Balgaisha"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Friday",
+    "time": "11:00-11:50",
+    "subject": "Ordinary Differential Equations",
+    "classroom": "C1.1.355P",
+    "type": "practice",
+    "lecturer": "Mukanova Balgaisha"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Saturday",
+    "time": "10:00-10:50",
+    "subject": "Algorithms and Data Structures",
+    "classroom": "C1.1.245K",
+    "type": "practice",
+    "lecturer": "Kharmyssov Chingis"
+  },
+  {
+    "group": "MCS-2401",
+    "day": "Saturday",
+    "time": "11:00-11:50",
+    "subject": "Algorithms and Data Structures",
+    "classroom": "C1.1.245K",
+    "type": "practice",
+    "lecturer": "Kharmyssov Chingis"
+  }
+]
