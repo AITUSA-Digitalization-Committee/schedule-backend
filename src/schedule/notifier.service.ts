@@ -27,9 +27,6 @@ export class NotifierService {
             const currentDay = this.getDayName(now.getUTCDay());
 
             for (const student of students) {
-                if (student.barcode != 242277) {
-                    continue
-                }
 
                 const schedules = await this.scheduleService.findByGroupAndDay(student.group.name, currentDay);
 
