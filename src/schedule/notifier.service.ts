@@ -34,8 +34,9 @@ export class NotifierService {
                     const lessonStart = this.parseTimeToDate(schedule.starts);
                     const diffMs = lessonStart.getTime() - now.getTime();
                     const diffMinutes = diffMs / 1000 / 60;
+                    const minutes = Math.floor(diffMinutes);
 
-                    if (diffMinutes >= 14 && diffMinutes <= 16) {
+                    if (minutes == 15) {
                         await xior.post<{ data: ApiResponse<Student[]> }>('https://api.yeunikey.dev/v1/notification/send', {
                             'secret': 'ILOVEYERASSYLTOP1AITUMEGA',
                             'barcode': student.barcode,
