@@ -3,11 +3,13 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Group } from './schedule/models/group';
 import { Schedule } from './schedule/models/schedule';
 import { ScheduleModule } from './schedule/schedule.module';
+import { ScheduleModule as NestScheduleModule } from '@nestjs/schedule'; // <<< ВАЖНО!
 
 @Module({
   imports: [
 
     ScheduleModule,
+    NestScheduleModule.forRoot(),
 
     TypeOrmModule.forRoot({
       type: 'postgres',

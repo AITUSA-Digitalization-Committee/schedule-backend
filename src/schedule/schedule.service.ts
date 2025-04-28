@@ -17,6 +17,18 @@ export class ScheduleService {
         })
     }
 
+    async findByGroupAndDay(group_name: string, currentDay: string) {
+        return await this.scheduleRepo.find({
+            where: {
+                group: {
+                    name: group_name
+                },
+                day: currentDay
+            },
+            relations: ['group']
+        })
+    }
+
     async save(schedule: DeepPartial<Schedule>) {
         return await this.scheduleRepo.save(schedule);
     }

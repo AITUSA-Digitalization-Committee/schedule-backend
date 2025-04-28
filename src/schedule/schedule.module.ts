@@ -5,11 +5,13 @@ import { Schedule } from "./models/schedule";
 import { Group } from "./models/group";
 import { ScheduleController } from "./schedule.controller";
 import { GroupService } from "./group.service";
+import { NotifierService } from "./notifier.service";
 
 @Module({
     providers: [
         ScheduleService,
         GroupService,
+        NotifierService
     ],
     controllers: [
         ScheduleController,
