@@ -1,0 +1,9 @@
+version: '2'
+services:
+  backend:
+    image: node:20
+    build: .
+    environment:
+      - NODE_ENV=production
+    ports:
+      - "3000:3000"
