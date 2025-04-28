@@ -1,0 +1,7 @@
+# .nixpacks.toml
+
+[build]
+  node_version = "20"
+
+[env]
+  NODE_ENV = "production"
