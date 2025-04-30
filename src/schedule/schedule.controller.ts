@@ -1,4 +1,4 @@
-import { Controller, Get, Param } from "@nestjs/common";
+import { Controller, Get, Param, Query } from "@nestjs/common";
 import { GroupService } from "./group.service";
 
 import { ScheduleService } from "./schedule.service";
@@ -26,6 +26,17 @@ export class ScheduleController {
         return {
             statusCode: 200,
             data: group
+        }
+    }
+
+    @Get('/filter')
+    async filter(@Query('groupName') group_name: string, @Query('day') day: string) {
+
+        const schedules = await this.scheduleService.findByGroupAndDay(group_name, day);
+
+        return {
+            statusCode: 200,
+            data: schedules
         }
     }
 
