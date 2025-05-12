@@ -1,8 +1,9 @@
+import { ApiResponse, Student } from 'src/types';
+
+import { Cron } from '@nestjs/schedule';
 import { Injectable } from '@nestjs/common';
 import { ScheduleService } from './schedule.service';
 import xior from 'xior';
-import { Cron } from '@nestjs/schedule';
-import { ApiResponse, Student } from 'src/types';
 
 @Injectable()
 export class NotifierService {
@@ -14,21 +15,33 @@ export class NotifierService {
     async checkLessons() {
 
         try {
-            const response = await xior.post<{ data: ApiResponse<Student[]> }>('https://api.yeunikey.dev/v1/notification/all', {
+            const response = await xior.post<ApiResponse<Student[]>>('https://api.yeunikey.dev/v1/notification/all', {
                 'secret': 'ILOVEYERASSYLTOP1AITUMEGA'
             });
 
-            const students = response.data.data.data;
+            const students = response.data.data;
 
             const now = new Date();
             now.setHours(now.getHours() + 5)
-            console.log(now);
+
+            const formattedTime = now.getUTCHours() + ":" + now.getUTCMinutes();
 
             const currentDay = this.getDayName(now.getUTCDay());
 
             for (const student of students) {
 
                 const schedules = await this.scheduleService.findByGroupAndDay(student.group.name, currentDay);
+
+                if (now.getUTCDay() == 6 && (formattedTime == "12:00" || formattedTime == "18:00" || formattedTime == "21:00")) {
+                    await xior.post<{ data: ApiResponse<Student[]> }>('https://api.yeunikey.dev/v1/notification/send', {
+                        'secret': 'ILOVEYERASSYLTOP1AITUMEGA',
+                        'barcode': student.barcode,
+                        'notification': {
+                            'title': "Напоминание",
+                            'text': `А ты точно не забыл(-а) про лёрн?`
+                        }
+                    });
+                }
 
                 for (const schedule of schedules) {
                     const lessonStart = this.parseTimeToDate(schedule.starts);

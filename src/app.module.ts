@@ -1,10 +1,10 @@
-import { Module } from '@nestjs/common';
-import { TypeOrmModule } from '@nestjs/typeorm';
+import { CacheModule } from '@nestjs/cache-manager';
 import { Group } from './schedule/models/group';
+import { Module } from '@nestjs/common';
+import { ScheduleModule as NestScheduleModule } from '@nestjs/schedule'; // <<< ВАЖНО!
 import { Schedule } from './schedule/models/schedule';
 import { ScheduleModule } from './schedule/schedule.module';
-import { ScheduleModule as NestScheduleModule } from '@nestjs/schedule'; // <<< ВАЖНО!
-import { CacheModule } from '@nestjs/cache-manager';
+import { TypeOrmModule } from '@nestjs/typeorm';
 
 @Module({
   imports: [
